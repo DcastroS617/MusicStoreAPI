@@ -87,5 +87,5 @@ module.exports = {
     createAlbum,
     filterAlbum,
     updateAlbum,
-    deleteAlbum
+    deleteAlbum,
 }
